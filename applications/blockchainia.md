@@ -8,22 +8,23 @@
 
 ### Overview
 
- Blockchainia delivers the benefits of digital ownership straight to gamers fingertips. Our infrastructure will enable developers to create games for gamers that decide to take ownership of their digital achievements. The Blockchainia library of pallets enables affordable pay-to-play games that forever immortalize gamings greatest moments on-chain. As an eventual competitive gaming metaverse, Blockchaina's ecosystem includes a community hosted online multiplayer infrastructure including a game engine that will interact directly with our gamechain for user moderated online gaming.
+ Blockchainia delivers the benefits of digital ownership straight to gamers fingertips. Our infrastructure will enable developers to create games for gamers that decide to take ownership of their digital assets and achievements. The Blockchainia library of pallets enables affordable pay-to-play games that forever immortalize gamings greatest moments on-chain. Containing a DAO driven gaming metaverse, Blockchaina's ecosystem includes a community hosted online multiplayer infrastructure including a game engine that will interact directly with our gamechain for user moderated online gaming.
 
 Our Milestone 1 open-source pallets will enable:
 - a web based online multiplayer PvPvE first-person shooter (Player vs Player vs Environment (AI) Enemy)
 - the engine that drives interactions between server and client
+- smart contract for prototype game
 - a leader board that aggregates in-game earned on-chain statistics by week, month, and year.
  - air dropped NFTs earned by completing in game tasks and leader board achievements
  - environment enemies spawned from on-chain NFT assets that funnel spoils back to its owner's wallet
   - a player prompt to create a wallet upon exit or completion
-  - community driven DAO that manages the online server infrastructure
 
 Future milestones will include updates to:
 - an evolving and expanding list of features through our open-source substrate pallet library
 - Two games that use our pallets to share in game items between them
     - an evolving JRPG that explains our gamechains "lore"
     - an evolving arcade style online multiplayer PvPvE
+    - community driven DAO that manages the online server infrastructure
 
 While there are other gaming projects in the ecosystem, ours differs in various ways. First, we will break the stigma gamers associate with NFTs through a fun JRPG. Non-playable character "blocks" will explain their purpose as well as the metaverse they inhabit in their on-chain existence. However, not all is as it seems in the troubled world of Blockchainia. Players will make their way through seasonally released updates to uncover the deep lore, rescue these NPC blocks, and discover the fun that digital ownership brings to the future of gaming. The items and experience earned in this JRPG will be stored on-chain to the users wallet and available in our arcade PvPvE. We have acquired the URL Blockchainia.gg as the landing page for both of these games. 
 
@@ -32,6 +33,10 @@ Other similar projects in the ecosystem are Ajuna and Bajun.  We plan to build o
  We differ in that we have the behavioral and marketing background to rapidly onboard users, as well as a product that can create a niche for itself in currently over-saturated market. Mark Zuckerberg tried and failed to create a metaverse with endless resources because he fails to realize the human utility of the technology of his time. We have the right team and the right vision to bring the metaverse to fruition, through a fair and economical value proposition that helped NBA Jam (Midway Games) earn 1 billion dollars to Jurassic Park's (Amblin Entertainment) 395 million in 1993, in quarters (.25USD). We believe we can minimize the cost to consumers by operating our sidechain at the lowest cost possible while allowing a DAO driven public server community to earn a reasonable fee for hosting the online multiplayer infrastructure of the games in our ecosystem. This fee will eventually approach a real market value which will add value to the various fungible tokens used throughout the ecosystem. 
 
 We will create free-to-use Unity assets that compliment our tech stack to allow independent developers to duplicate our model and optionally distribute their games via our distribution architecture or use our reputation based, community moderated online-multiplayer infrastructure. 
+
+These assets will include materials and 3d objects to create in game environments and characters, as well as the script controllers that drive in game characters. The assets and script controllers will enable local and networked multiplayer games to be created and modified with ease. 
+
+The DAO community we build is intended to have a growing influence over the course of development taken in regards to both gameplay and all web3 enhanced game features. Careful consideration is being taken to avoid the infamy associated with pay-to-win schemes, while allowing both free-to-play and pay-to-play modes. More information on the tokenomics will be made available with the publishing of our lite paper. 
 
 ## Project Details
 
@@ -46,6 +51,7 @@ We will create free-to-use Unity assets that compliment our tech stack to allow 
 - Node.js Front End
 - C#
 - Unity
+- Mirror Networking
 - Adobe Creative Suite 
 - Blender
 
@@ -123,8 +129,8 @@ We have begun development on a server authoritative online multiplayer game engi
 
  ### Milestone 1  — Basic MVP
 
- - **Estimated duration:** 15 weeks development 
- - **FTE:**  1 FTE
+ - **Estimated duration:** 6 months development 
+ - **FTE:**  .4 FTE
  - **Costs:** $25,000 USD
 
 | Number | Deliverable | Specification |
